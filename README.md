@@ -2,7 +2,7 @@
 
 <!--
 **Swetha-Sureshkumar/Swetha-Sureshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Swetha-Sureshkumar/Swetha-Sureshkumar/blob/main/AppropriateFatKagu-max-1mb.gif" height="100" /></a>
+[[https://github.com/Swetha-Sureshkumar/Swetha-Sureshkumar/blob/main/AppropriateFatKagu-max-1mb.gif|alt=octocat]]
 
 Here are some ideas to get you started:
 
